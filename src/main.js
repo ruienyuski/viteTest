@@ -1,4 +1,3 @@
-import './assets/main.css'
 import axios from 'axios'
 import VueAxios from 'vue-axios'
 

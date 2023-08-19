@@ -21,9 +21,9 @@ git add -A
 git commit -m 'deploy'
 
 # if you are deploying to https://ruienyuski.github.io
-git push -f git@github.com:ruienyuski/ruienyuski.github.io.git main
+# git push -f git@github.com:ruienyuski/ruienyuski.github.io.git main
 
 # if you are deploying to https://ruienyuski.github.io/viteTest
-# git push -f git@github.com:ruienyuski/viteTest.git main:gh-pages
+git push -f git@github.com:ruienyuski/viteTest.git main:gh-pages
 
 cd -
